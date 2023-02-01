@@ -1,5 +1,5 @@
 # Brain-Tumor-Classification
-*Description:
+* Description:
     This project is aimed at classifying magnetic resonance imaging (MRI) scans into different medical conditions like meningioma, glicoma, pituitary type of brain tumors. I have used the dataset acquired from kaggle and augumented it to increase the number of data for each class.
 *Requirments:
     *Python 3.x
